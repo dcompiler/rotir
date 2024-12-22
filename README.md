@@ -1,2 +1,2 @@
-# rrt
-A rust implementation of the transformer algorithm
+# rotir
+Rochester (implementation of) transformer in Rust
